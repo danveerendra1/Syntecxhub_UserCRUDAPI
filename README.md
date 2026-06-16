@@ -1,8 +1,7 @@
-User CRUD API
-
+<ins>****User CRUD API****</ins>  
 A RESTful API built using Node.js, Express.js, MongoDB, and Mongoose.
 
-Features
+**Features**
 
 - Create User
 - Get All Users
@@ -10,7 +9,7 @@ Features
 - Update User
 - Delete User
 
-Technologies Used
+**Technologies Used**
 
 - Node.js
 - Express.js
@@ -18,8 +17,7 @@ Technologies Used
 - Mongoose
 - Postman
 
-API Endpoints
-
+**API Endpoints**  
 
 POST /api/users  
 GET /api/users   
@@ -27,6 +25,5 @@ GET /api/users/:id
 PUT /api/users/:id   
 DELETE /api/users/:id 
 
-Author
-
+**Author**  
 Lella Dan Veerendra
